@@ -1,1 +1,4 @@
+__version__ = "v2"
+
 print("working fine ig")
+print(__version__)
