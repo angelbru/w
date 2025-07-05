@@ -2,5 +2,3 @@ __version__ = "v4"
 
 print("working fine ig")
 print(__version__)
-def test = 1
-print(test)
